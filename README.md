@@ -38,21 +38,12 @@
 
 ---
 
-## 📂 Featured Projects  
-✨ *(Replace with your projects later)*  
-
-- 🔹 **[Project Name](#)** — short description (Tech used)  
-- 🔹 **[Another Project](#)** — short description (Impact / Cool factor)  
-- 🔹 **[Hackathon Prototype](#)** — short description (Prize / Fun fact)  
-
----
-
 ## 🏆 Achievements & Experience  
 ✨ *(Template — update as you like)*  
 
-- 🥇 Hackathon Wins: *X Hackathon (1st Place), Y Hackathon (Top Finalist)*  
-- 📜 Certifications: *AWS, Terraform, Kafka...*  
-- 📖 Publications: *2 Conference Papers on [Your Domain]*  
+- 🥇 Hackathon Wins: *Top 18 in LSEG Global Hackathon, LSEG Innovation Expo 2024 (Top Finalist)*  
+- 📜 Certifications: *Machine Learning by Andrew NG*  
+- 📖 Publications: *2 Conference Papers on [[ORCID](https://orcid.org/my-orcid?orcid=0009-0009-2665-1817)]*  
 - 💼 Experience: *Software Engineer @ LSEG (2024–Present)*  
 
 ---

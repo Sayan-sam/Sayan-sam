@@ -38,8 +38,7 @@
 
 ---
 
-## 🏆 Achievements & Experience  
-✨ *(Template — update as you like)*  
+## 🏆 Achievements & Experience   
 
 - 🥇 Hackathon Wins: *Top 18 in LSEG Global Hackathon, LSEG Innovation Expo 2024 (Top Finalist)*  
 - 📜 Certifications: *Machine Learning by Andrew NG*  
